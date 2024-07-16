@@ -1,0 +1,24 @@
+# Sample Text File for Testing
+
+This is a sample text file to be used for testing purposes. It contains various types of content including plain text, lists, and tabular data.
+
+## Plain Text
+The quick brown fox jumps over the lazy dog. This sentence contains every letter in the English alphabet.
+
+## List
+1. Item 1
+2. Item 2
+3. Item 3
+4. Item 4
+
+## Data Table
+Name        Age     Occupation
+John Doe    29      Engineer
+Jane Smith  34      Doctor
+Sam Brown   23      Student
+Alice Green 40      Teacher
+
+## Random Text
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada.
+
+End of the sample text file.
